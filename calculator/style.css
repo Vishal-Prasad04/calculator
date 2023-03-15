@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+
+}.button{
+    padding: 13px 20px;
+    margin: 0 3px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+h1{
+    color: aliceblue;
+}
+.row{
+    margin:10px;
+}
+.container{
+    background-color: rgb(67, 126, 98);
+    height: 30rem;
+    width: 25rem;
+    border-radius: 1rem;
+}
+#input{
+    margin-bottom: -6px;
+    padding: 9px 10px;
+    border-radius: 8px;
+}
+#but{
+    padding:10px 15px ;
+    border-radius: 8px;
+    cursor: pointer;
+}
